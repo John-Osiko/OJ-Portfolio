@@ -68,13 +68,15 @@
         padding-left: 60%;
         font-weight: 500;
         float: right;
-        color: black;
+        color: rgb(146, 25, 102);
+        text-shadow: black 2px 2px;
         line-height: 25px;
         font-weight: 600;
     }
     
     button {
-        font-size: large;
+        font-size: 24px;
+        font-weight: 800;
         color: black;
         background-color: rgb(99, 191, 228);
         border-radius: 10px;
