@@ -1,17 +1,19 @@
 header img {
     margin-bottom: 10px;
     cursor: pointer;
-    height: 200px;
-    width: 200px;
+    height: 80vh;
+    width: 25vw;
     padding-left: 1px;
     padding-top: 10px;
 }
 
 #sidebar {
     background-image: url(../Images/water-1330252_1920.jpg);
-    width: 230px;
+    width: 30vw;
     height: 100vh;
     text-align: center;
+    float: left;
+    padding-top: 0%;
 }
 
 #sidebar h6 {
