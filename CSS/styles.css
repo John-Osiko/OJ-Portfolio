@@ -23,7 +23,7 @@
     }
     
     #name ul {
-        padding-left: 18%;
+        padding-left: 12%;
         font-weight: 700;
     }
     
@@ -33,4 +33,10 @@
         color: white;
         font-size: 24px;
         padding-left: 4%;
+    }
+    
+    .descri {
+        color: rgb(70, 112, 228);
+        font-size: 24px;
+        padding-top: 14%;
     }
