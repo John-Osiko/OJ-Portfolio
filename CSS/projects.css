@@ -49,5 +49,14 @@ button :hover {
 .descri #three {
     padding-left: 8%;
     color: white;
-    a text-shadow: black 2px 1px;
+    text-shadow: black 2px 1px;
+}
+
+span1 {
+    color: white;
+    line-height: 30px;
+}
+
+span2 {
+    color: black;
 }
