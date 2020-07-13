@@ -99,12 +99,3 @@
         button :hover {
             opacity: 0.5;
         }
-        
-        span1 {
-            color: white;
-            line-height: 30px;
-        }
-        
-        span2 {
-            color: black;
-        }
